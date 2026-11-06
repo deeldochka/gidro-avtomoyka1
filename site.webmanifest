@@ -1,0 +1,16 @@
+{
+  "name": "Гидро — автомойка на Заставской, 46",
+  "short_name": "Гидро автомойка",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05090d",
+  "theme_color": "#05090d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
